@@ -2,7 +2,7 @@
   "name": "comment-based-function-folding",
   "displayName": "Comment-Based Function Folding",
   "description": "Automatically collapses code between comments inside functions.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.93.0"
   },
