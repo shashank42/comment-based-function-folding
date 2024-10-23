@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shashank42/comment-based-function-folding.git"
+  },
   "categories": [
     "Other"
   ],

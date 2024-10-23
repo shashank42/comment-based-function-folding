@@ -8,6 +8,12 @@ Here’s a detailed and visually appealing `README.md` you can use for your VS C
 
 ---
 
+**Function Comment Folding** an example from 3Blue1Brown's Grant Sanderson's Sublime Setup 
+
+![Example of Folding](media/folding.jpeg)
+
+---
+
 ## Features
 
 - **Automatic Comment Folding**: Detects comments (`//`) within function bodies and allows folding based on their positions.
@@ -84,10 +90,3 @@ This extension currently works out of the box with no configuration required. It
 
 - Initial release of **Function Comment Folding**.
 - Supports comment-based folding for JavaScript and TypeScript functions using `ts-morph` for AST parsing.
-
-
----
-
-Feel free to tweak the details, like the **GitHub link**, **contact info**, or the **installation steps**, based on your project and how you'd like to present it.
-
-Let me know if you'd like any other modifications!
